@@ -72,7 +72,7 @@
     "axios": "^0.18.1",
     "front-matter": "^2.3.0",
     "github-markdown-css": "^2.10.0",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-markdown": "^3.4.1",
